@@ -1,11 +1,10 @@
-# Olá, eu sou o Hélio Gabriel 👋
+# Olá, eu sou o Hélio Castro 👋
 
 Estudante de **Desenvolvimento de Sistemas** na Proz, em Divinópolis (MG), com conclusão prevista para dezembro de 2026. Gosto de transformar ideias em projetos web que funcionam de verdade.
 
 ## 🔨 No que estou trabalhando
 
 - **Catálogo de Produtos**: vitrine online sem e-commerce, com painel administrativo e contato pelo WhatsApp *(em desenvolvimento)*
-- **Série semanal sobre Claude Code**: toda semana testo uma skill ou plugin e publico um resumo do que realmente presta
 
 ## 🚀 Projetos
 
