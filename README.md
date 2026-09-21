@@ -8,12 +8,9 @@ Estudante de **Desenvolvimento de Sistemas** na Proz, em Divinópolis (MG), com 
 
 ## 🚀 Projetos
 
-- [sistema-estacionamento](https://github.com/gabi915gubi/sistema-estacionamento): sistema de estacionamento em Python
-- [recibo-codigo-qr](https://github.com/gabi915gubi/recibo-codigo-qr): gerador de recibo com código QR em Python
+- [sistema-estacionamento](https://github.com/gabi915gubi/SISTEMA-DE-ESTACIONAMENTO): sistema de estacionamento em Python
+- [recibo-codigo-qr](https://github.com/gabi915gubi/RECIBO-QR-CODE): gerador de recibo com código QR em Python
 - [portfolio](https://github.com/gabi915gubi/portfolio): meu portfólio pessoal em JavaScript
-- [taskboard-php](https://github.com/gabi915gubi/taskboard-php): painel de tarefas com login, prioridade, edição e filtros
-- [catalogo-produtos](https://github.com/gabi915gubi/catalogo-produtos): vitrine online com painel administrativo *(em desenvolvimento)*
-- [php-login-sessoes](https://github.com/gabi915gubi/php-login-sessoes): exercícios de login, sessões e cookies em PHP
 
 ## 📚 O que já pratiquei
 
